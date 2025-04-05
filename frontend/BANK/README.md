@@ -1,4 +1,4 @@
-Below is a complete and well-structured README.md for your Bankruptcy Prediction System project. It includes an overview, features, installation steps, usage instructions, technologies used, contribution guidelines, and licensing details—everything needed to understand, use, or contribute to the project.
+Below is a complete and well-structured README.md for  Bankruptcy Prediction System project. It includes an overview, features, installation steps, usage instructions, technologies used, contribution guidelines, and licensing details—everything needed to understand, use, or contribute to the project.
 Bankruptcy Prediction System
 The Bankruptcy Prediction System is a web-based application designed to evaluate the financial health of companies by predicting their risk of bankruptcy. Built with machine learning, it analyzes critical financial metrics to deliver a comprehensive risk assessment, including a bankruptcy risk score, confidence level, and key contributing factors. The system features an interactive dashboard, real-time data validation, PDF report generation, user profile management, and historical trend analysis.
 Table of Contents
