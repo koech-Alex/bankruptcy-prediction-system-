@@ -28,7 +28,7 @@ Gmail account (for email alerts)
 Backend Setup
 Clone the repository:
 bash
-git clone https://github.com/yourusername/bankruptcy-prediction-system.git
+git clone https://github.com/koech-Alex/bankruptcy-prediction-system.git
 Navigate to the backend directory:
 bash
 cd bankruptcy-prediction-system/backend
