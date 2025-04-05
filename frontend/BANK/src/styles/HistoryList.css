@@ -1,0 +1,16 @@
+h2 {
+    color: #004080;
+  }
+  
+  .history-list {
+    list-style-type: none;
+    padding: 0;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    margin-top: 20px;
+  }
+  
+  .history-list li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
